@@ -3,26 +3,10 @@
 
 Feature | Feedback
 ---     | ---
-**Baseline** |
-Used git regularly	|
-Answer comprehension questions	|
 **Design** |
-Each class is responsible for a single piece of the program |
-Classes are loosely coupled |
-**Wave 1** |
-List rooms |
-Reserve a room for a given date range |
-List reservations for a given date |
-Calculate reservation price |
-Invalid date range produces an error |
-Test coverage |
-**Wave 2** |
-View available rooms for a given date range |
-Reserving a room that is not available produces an error |
-Test coverage |
-**Wave 3** |
-Create a block of rooms |
-Check if a block has rooms |
-Reserve a room from a block |
-Test coverage |
-**Additional Feedback** |
+Demonstrated classes having a single responsibility |
+Demonstrated loose coupling |
+Methods demonstrate a good use of encapsulation, inputs and outputs | 
+Wave 1 requirements |
+Wave 2 requirements |
+Wave 3 requirements |
